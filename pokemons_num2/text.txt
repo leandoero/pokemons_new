@@ -1,0 +1,6 @@
+Pikachu 100 100 20 50
+Bulbasaur 100 100 10 60
+Charmander 100 100 15 45
+Squirtle 100 100 15 45
+Pijot 100 100 20 40
+Miuti 100 100 20 40
